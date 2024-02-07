@@ -1,0 +1,36 @@
+#body {
+  background-color: rgb(118, 230, 170);
+  display: flex;
+  justify-content: center;
+}
+
+#app {
+  display: flex;
+  justify-content: center;
+}
+
+#inputTxt {
+  height: 70px;
+  width: 600px;
+  font-size: 20px;
+  background-color: aliceblue;
+}
+
+.button {
+  background-color: rgb(160, 106, 211);
+  color: white;
+  width: 40px;
+  height: 30px;
+  margin: 5px;
+  font-size: 20px;
+  margin-left: 5px;
+}
+
+.Backspace {
+  background-color: rgb(160, 106, 211);
+  color: white;
+  height: 30px;
+  width: 150px;
+  font-size: 20px;
+  margin-left: 5px;
+}
